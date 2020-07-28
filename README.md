@@ -3,7 +3,7 @@
 - I believe in sharing our AI research experiences via open-source and writing, so we can help each other exploit the great potential of AI together. 
 - I believe that engineering is the big bottleneck of deep learning. That is why I try to advance my engineering skills to create useful human-centered AI solutions to make our lives better.
 
-**Who am I**
+**Who am I?**
 
 First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI solutions**. 
 
