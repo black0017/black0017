@@ -9,7 +9,7 @@ First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am
 
 - 🔭 I am currently working as a Machine learning research engineer applied to radiotherapy for people with cancer at INSA. The project aims to help radiation oncologists to predict if it is necessary and when to make a new treatment plan during the therapy course.  
 
-- 🌱 Previous research projects that I consciously participated include Greek Sign Language solution systems(2019) and educational games for people with disabilities (2018).
+- 🌱 Previous research projects that I consciously participated include [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
 
 **Research Interests** 
 
