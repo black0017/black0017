@@ -18,10 +18,10 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 **Core projects**
 
 - Creator of the [MedicalZoo](https://github.com/black0017/MedicalZooPytorch) PyTorch library that provides out of the box state of the art 3D segmentation models
-- First author of "Multi-view adaptive graph convolutions for graph classification" ECCV 2020.
+- First author of "Multi-view adaptive graph convolutions for graph classification" ECCV 2020. [arxiv link](https://arxiv.org/abs/2007.12450)
 - AI science writer and co-founder at [AI Summer](https://theaisummer.com/)
 - Author of the GAN in Computer Vision [free ebook](https://theaisummer.com/gans-computer-vision-ebook/).
-- Responsible for the creation of the first large-scale RGB+D [Greek sign language video dataset](https://zenodo.org/record/3941811#.Xw6nqJZRU5k).
+- Responsible for the creation of the first large-scale RGB+D Greek sign language video [dataset](https://zenodo.org/record/3941811#.Xw6nqJZRU5k). [arxiv link](https://arxiv.org/abs/2007.12530)
 
 
 
