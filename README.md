@@ -11,7 +11,7 @@ First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am
 
 - 🌱 Previous research projects that I consciously participated include [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
 
-**Research Interests & Publications** 
+**Research Interests** 
 
 My AI research interests include 3D medical imaging, image and video analysis, graph-based deep learning models, and generative deep learning.
 
