@@ -17,7 +17,7 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 
 **Publications**:
 
-1) [Multi-view adaptive graph convolutions for graph classification, Adaloglou et. al ECCV 2020](https://arxiv.org/abs/2007.12450)
+1) [Multi-view adaptive graph convolutions for graph classification, Adaloglou et. al ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5394_ECCV_2020_paper.php)
 
 2) [A Comprehensive Study on Sign Language Recognition Methods](https://arxiv.org/abs/2007.12530)
 
