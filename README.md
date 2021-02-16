@@ -28,6 +28,7 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 - AI science writer and co-founder at [AI Summer](https://theaisummer.com/)
 - Author of the GAN in Computer Vision [free ebook](https://theaisummer.com/gans-computer-vision-ebook/).
 - Responsible for the creation of the first large-scale RGB+D Greek sign language video [dataset](https://zenodo.org/record/3941811#.Xw6nqJZRU5k). [arxiv link](https://arxiv.org/abs/2007.12530)
+- Creator of [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv) a python package (available via pip) with multiple self-attention modules for computer vision.
 
 
 
