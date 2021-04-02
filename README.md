@@ -9,7 +9,7 @@ First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am
 
 - AI Science writer at [AI Summer](https://theaisummer.com/)
 
-- 🌱 Previous AI research projects that I consciously participated include radiotherapy research for people with cancer, [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
+- 🌱 Previous AI research projects that I consciously participated include radiotherapy research for people with cancer (2020), [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
 
 **Research Interests** 
 
