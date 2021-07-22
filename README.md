@@ -7,8 +7,8 @@
 
 First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI solutions**. 
 
+- PhD Researcher at HHU focused on self-supervised learning representations and medical imaging.
 - AI Science writer at [AI Summer](https://theaisummer.com/)
-
 - 🌱 Previous AI research projects that I consciously participated include radiotherapy research for people with cancer (2020), [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
 
 **Research Interests** 
@@ -23,7 +23,7 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 
 
 **Core projects**
-
+- Co-creator of the first ever interactive and 100% text-based [deep learning course](https://theaisummer.com/introduction-to-deep-learning-course/)
 - Creator of the [MedicalZoo](https://github.com/black0017/MedicalZooPytorch), a PyTorch library that provides out of the box state of the art 3D segmentation models
 - AI science writer and co-founder at [AI Summer](https://theaisummer.com/)
 - Author of the GAN in Computer Vision [free ebook](https://theaisummer.com/gans-computer-vision-ebook/).
