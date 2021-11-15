@@ -15,7 +15,7 @@ First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am
 
 My AI research interests include 3D medical imaging, image and video analysis, graph-based deep learning models, and generative deep learning.
 
-**Publications**:
+[**Publications**](https://scholar.google.com/citations?user=3kaPme8AAAAJ&hl=en):
 
 1) [Multi-view adaptive graph convolutions for graph classification, Adaloglou et al. accepted at ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5394_ECCV_2020_paper.php)
 
