@@ -6,7 +6,7 @@
 
 **Who am I?**
 
-First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI solutions**. 
+First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI**. 
 
 - PhD Researcher at HHU focused on self-supervised learning representations and medical imaging.
 - AI Science writer at [AI Summer](https://theaisummer.com/)
