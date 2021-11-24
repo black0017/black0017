@@ -1,8 +1,8 @@
 **Why statement**
-
-- I believe in sharing AI research experience and open-source.
-- I believe that engineering is the big bottleneck of deep learning.
-- Create useful **human-centered** AI solutions.
+I believe in/that:
+- sharing AI research experiences with blogs & open-source.
+- engineering is the big bottleneck of deep learning.
+- creating useful **human-centered** AI solutions.
 
 **Who am I?**
 
