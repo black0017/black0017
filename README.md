@@ -1,5 +1,6 @@
 
 **Email remark**
+
 If you have an offer, opportunity, or introduction that might make my life more interesting, then definately e-mail me. I’ll only respond to those proposals that are a good match for my schedule and interests.
 
 **Why statement**
