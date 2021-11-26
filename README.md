@@ -12,7 +12,7 @@ I believe in/that:
 
 **Who am I?**
 
-First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI**. 
+I tend to love minimalism, simplicity and honesty. In sociatey terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI**. 
 
 - PhD Researcher at HHU (University of Dusseldorf) focused on self-supervised representation learning and medical imaging.
 - AI Science writer at [AI Summer](https://theaisummer.com/)
