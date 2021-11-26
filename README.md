@@ -1,4 +1,9 @@
+
+**Email remark**
+If you have an offer, opportunity, or introduction that might make my life more interesting, then definately e-mail me. I’ll only respond to those proposals that are a good match for my schedule and interests.
+
 **Why statement**
+
 I believe in/that:
 - sharing AI research experiences with blogs & open-source.
 - engineering is the big bottleneck of deep learning.
@@ -35,5 +40,3 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=black0017&show_icons=true&hide_border=true)
 
-
-- 📫 How to reach me: black.adaloglou@gmail.com
