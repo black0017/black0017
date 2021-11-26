@@ -14,7 +14,7 @@ I believe in/that:
 
 First of all, I love minimalism, simplicity and honesty. In sociatey terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI**. 
 
-- PhD Researcher at HHU focused on self-supervised learning representations and medical imaging.
+- PhD Researcher at HHU (University of Dusseldorf) focused on self-supervised representation learning and medical imaging.
 - AI Science writer at [AI Summer](https://theaisummer.com/)
 - Previous AI research projects that I consciously participated include radiotherapy research for people with cancer (2020), [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
 
