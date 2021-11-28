@@ -1,8 +1,3 @@
-
-**Email remark**
-
-If you have an offer, opportunity, or introduction that might make my life more interesting, then definitely e-mail me at `nikolas [at] theaisummer.com` . I’ll only respond to those proposals that are a good match for my schedule and interests.
-
 **Why statement**
 
 I believe in/that:
@@ -41,3 +36,7 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=black0017&show_icons=true&hide_border=true)
 
+
+**Email remark**
+
+If you have an offer, opportunity, or introduction that might make my life more interesting, then definitely e-mail me at `nikolas [at] theaisummer.com` . I’ll only respond to those proposals that are a good match for my schedule and interests.
