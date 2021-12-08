@@ -36,7 +36,7 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=black0017&show_icons=true&hide_border=true)
 
-![`black0017@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=black0017&theme=cobalt&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
+![`black0017@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=black0017&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
 
 
 **Email remark**
