@@ -23,7 +23,7 @@ My AI research interests include 3D medical imaging, image and video analysis, g
 
 2) [A Comprehensive Study on Sign Language Recognition Methods, Adaloglou et al. accepted at IEEE Transactions on Multimedia Journal (shared first authorship)](https://arxiv.org/abs/2007.12530)
 
-3) [Self-Supervised Anomaly Detection by Self-Distillation and Negative Sampling, Under review](https://arxiv.org/abs/2201.06378) 
+3) [Self-Supervised Anomaly Detection by Self-Distillation and Negative Sampling, ICANN 2022](https://arxiv.org/abs/2201.06378) 
 
 
 **Core projects**
