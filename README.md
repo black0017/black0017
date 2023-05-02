@@ -12,25 +12,11 @@ I tend to love minimalism, simplicity and honesty. In sociatey terms, I am an El
 - PhD Researcher at HHU (University of Dusseldorf) focused on self-supervised representation learning and medical imaging.
 - AI Science writer at [AI Summer](https://theaisummer.com/)
 - Previous AI research projects that I consciously participated include radiotherapy research for people with cancer (2020), [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
-
-**Research Interests** 
-
-My AI research interests include 3D medical imaging, image and video analysis, graph-based deep learning models, and generative deep learning.
-
-[**Publications**](https://scholar.google.com/citations?user=3kaPme8AAAAJ&hl=en):
-
-1) [Multi-view adaptive graph convolutions for graph classification, Adaloglou et al. accepted at ECCV 2020](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5394_ECCV_2020_paper.php)
-
-2) [A Comprehensive Study on Sign Language Recognition Methods, Adaloglou et al. accepted at IEEE Transactions on Multimedia Journal (shared first authorship)](https://arxiv.org/abs/2007.12530)
-
-3) [Self-Supervised Anomaly Detection by Self-Distillation and Negative Sampling, ICANN 2022](https://arxiv.org/abs/2201.06378) 
+- For my publications, please visit [google scholar](https://scholar.google.com/citations?user=3kaPme8AAAAJ&hl=en)
 
 
 **Core projects**
 - Co-creator of the first ever interactive and 100% text-based [deep learning course](https://theaisummer.com/introduction-to-deep-learning-course/)
-- Creator of the [MedicalZoo](https://github.com/black0017/MedicalZooPytorch), a PyTorch library that provides out of the box state of the art 3D segmentation models
-- AI science writer and co-founder at [AI Summer](https://theaisummer.com/)
-- Author of the GAN in Computer Vision [free ebook](https://theaisummer.com/gans-computer-vision-ebook/).
 - Responsible for the creation of the first large-scale RGB+D Greek sign language video [dataset](https://zenodo.org/record/3941811#.Xw6nqJZRU5k). [arxiv link](https://arxiv.org/abs/2007.12530)
 - Creator of [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv) a python package (available via pip) with multiple self-attention modules for computer vision.
 
