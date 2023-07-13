@@ -28,4 +28,5 @@ I tend to love minimalism, simplicity, and honesty. In social terms, I am an Ele
 
 
 **Email remark**
+
 If you have an offer, opportunity, or introduction that might make my life more interesting, then definitely e-mail me at `nikolas [_at_] theaisummer.com` . I’ll only respond to those proposals that are a good match for my schedule and interests.
