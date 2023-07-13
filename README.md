@@ -1,7 +1,9 @@
 **Why statement**
+
 I believe in sharing AI research experiences with blogs & open-source and creating useful **human-centered** AI solutions.
 
 **Core projects**
+
 - Co-creator of the public MSc [Representation Learning course](https://www.youtube.com/playlist?list=PL3mKiGE4zNJJ83K4c3IBka6eYfe6v71dS)
 - Co-author of the [Deep Learning in Production book.](https://theaisummer.com/deep-learning-in-production-book/)
 - Creator of [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv) a Python package (available via pip) with multiple self-attention modules for computer vision.
@@ -12,6 +14,7 @@ I believe in sharing AI research experiences with blogs & open-source and creati
 
 
 **Who am I?**
+
 I tend to love minimalism, simplicity, and honesty. In social terms, I am an Electrical and Biomedical Engineer (MEng + MSc) that is interested in the  development of **human-centered AI**. 
 - Currently conducting my Ph.D. research at HHU (University of Dusseldorf) focused on self-supervised representation learning and medical imaging.
 - AI Science writer at [AI Summer](https://theaisummer.com/)
