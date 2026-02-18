@@ -1,26 +1,21 @@
-**Why statement**
-
-I believe in sharing AI research experiences with blogs & open-source and creating useful **human-centered** AI solutions.
-
-**Core projects**
-
-- Co-creator of the public MSc [Representation Learning course](https://www.youtube.com/playlist?list=PL3mKiGE4zNJJ83K4c3IBka6eYfe6v71dS)
-- Co-author of the [Deep Learning in Production book.](https://theaisummer.com/deep-learning-in-production-book/)
-- Creator of [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv) a Python package (available via pip) with multiple self-attention modules for computer vision.
-- Co-creator of the first ever interactive and 100% text-based [deep learning course](https://theaisummer.com/introduction-to-deep-learning-course/)
-- Responsible for the creation of the first large-scale RGB+D Greek sign language video [dataset](https://zenodo.org/record/3941811#.Xw6nqJZRU5k). [arxiv link](https://arxiv.org/abs/2007.12530)
-- For my publications, please visit [Google Scholar](https://scholar.google.com/citations?user=3kaPme8AAAAJ&hl=en)
-
-
-
 **Who am I?**
 
-I love minimalism, simplicity, and honesty. In social terms, I am an Electrical and Biomedical Engineer (MEng + MSc) interested in the development of human-centered AI. I am currently conducting my Ph.D. research at the University of Dusseldorf. I occasionally publish blog posts on [AI Summer](https://theaisummer.com/). Previous AI research projects that I consciously participated in include radiotherapy research for people with cancer (2020), [Greek Sign Language solution systems](https://www.iti.gr/iti/projects/%CE%95%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CF%8E.html) (2019) and [educational games for people with disabilities](https://www.iti.gr/iti/projects/MaTHiSiS.html) (2018).
+Hi there, I'm Nikolas, born and raised in a small village in northern Greece. I've lived in three countries (Greece, France, and Germany) and travelled in more than 20. I love minimalism, outdoor activities, and hands-on AI projects. I have recently finished my Ph.D. at the University of Düsseldorf (02/2026). I previously studied electrical engineering and computer science in Greece, and I did my MSc in biomedical engineering. My main interests include generative AI, representation learning, multimodal learning, computer vision, pretraining, and fine-tuning AI models.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=black0017&show_icons=true&hide_border=true)
 
 ![`black0017@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=black0017&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
 
+- [PhD thesis link](https://drive.google.com/file/d/15u7B-186CoDt8ubpyE5EDrqUtOAeuEZ_/view?usp=sharing)
+- For my publications, visit [Google Scholar](https://scholar.google.com/citations?user=3kaPme8AAAAJ&hl=en)
+- I share some of my interests in my blog [AI Summer](https://theaisummer.com/). 
 
-**Email remark**
-If you have an offer, opportunity, or introduction that might make my life more interesting, then definitely e-mail me at `nikolas [%*^*&_at_&%^*] theaisummer.com` . I’ll only respond to those proposals that are a good match for my schedule and interests.
+
+**Core projects**
+- Co-creator of the public MSc [Representation Learning course](https://www.youtube.com/playlist?list=PL3mKiGE4zNJJ83K4c3IBka6eYfe6v71dS)
+- Co-author of the [Deep Learning in Production book.](https://theaisummer.com/deep-learning-in-production-book/)
+- Creator of [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv) a Python package (available via pip) with multiple self-attention modules for computer vision.
+- Co-creator of the first ever interactive and 100% text-based [deep learning course](https://theaisummer.com/introduction-to-deep-learning-course/)
+- Responsible for the creation of the first large-scale RGB+D Greek sign language video [dataset](https://zenodo.org/record/3941811#.Xw6nqJZRU5k). [arxiv link](https://arxiv.org/abs/2007.12530)
+
+If you have an offer, opportunity, or introduction that might make my life more interesting, send me a DM on LinkedIn. 
