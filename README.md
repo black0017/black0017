@@ -2,9 +2,7 @@
 
 Hi there, I'm Nikolas, born and raised in a small village in northern Greece. I've lived in three countries (Greece, France, and Germany) and travelled in more than 20. I love minimalism, outdoor activities, and hands-on AI projects. I have recently finished my Ph.D. at the University of Düsseldorf (02/2026). I previously studied electrical engineering and computer science in Greece, and I did my MSc in biomedical engineering. My main interests include generative AI, representation learning, multimodal learning, computer vision, pretraining, and fine-tuning AI models.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=black0017&show_icons=true&hide_border=true)
 
-![`black0017@`'s top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=black0017&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
 
 - [PhD thesis link](https://drive.google.com/file/d/15u7B-186CoDt8ubpyE5EDrqUtOAeuEZ_/view?usp=sharing)
 - For my publications, visit [Google Scholar](https://scholar.google.com/citations?user=3kaPme8AAAAJ&hl=en)
@@ -19,3 +17,5 @@ Hi there, I'm Nikolas, born and raised in a small village in northern Greece. I'
 - Responsible for the creation of the first large-scale RGB+D Greek sign language video [dataset](https://zenodo.org/record/3941811#.Xw6nqJZRU5k). [arxiv link](https://arxiv.org/abs/2007.12530)
 
 If you have an offer, opportunity, or introduction that might make my life more interesting, send me a DM on LinkedIn. 
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=black0017)](https://github.com/anuraghazra/github-readme-stats)
